@@ -1,7 +1,7 @@
 <html> 
 <body><b><u> Cmentarz Chodaczów </b><u/><br>
 <a href="DSCF2387.JPG"> <b>Ś.P. Baj Jan <br> ur.27.10.1924 zm.26.9.1994 </b>  </a><br>
-
+<br>
 <a href="DSCF2257.JPG"><b>Ś.P. Baran Aniela ur.30.06.1905 zm.26.12.1983 <br>Ś.P.Baran Andrzej ur.28.11.1901 zm.05.09.1983 </b> </a><br>
 
 <a href="DSCF2397.JPG"><b>Ś.P. Bielecka Maria ur.31.07.1927 zm.29.04.1999 <br>Ś.P. Bielecki Stanisław ur.23.09.1920 zm.24.05.2003 </b></a><br>
@@ -288,7 +288,7 @@
 
 <a href="DSCF2234.JPG"><b>Ś.P. Maj Agata <br> ur.06.05.1927 zm.04.03.2007 </b></a><br>
 
-<a href="DSCF2279.JPG"> <br>Ś.P. Maj Józef<br> zm.17.10.2003</b> </a><br>
+<a href="DSCF2279.JPG"> <b>Ś.P. Maj Józef<br> zm.17.10.2003</b> </a><br>
 
 <a href="DSCF2290.JPG"><b>Ś.P. Majewska Anna ur.07.04.1955 zm.04.02.2022 <br>Ś.P. Majewski Adam ur.23.12.1950 zm.23.10.2013 </b>  </a><br>
 
